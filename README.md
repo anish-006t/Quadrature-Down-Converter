@@ -101,4 +101,4 @@ f_{out} = f_{in} - f_{osc}
 - Anish Toshniwal  
 - Vedant Zope  
 - Kavya Pandey
-- 
+
